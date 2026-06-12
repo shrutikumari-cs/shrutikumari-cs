@@ -9,6 +9,8 @@
 ## Skills
 - C++
 - Python
+- HTML
+- CSS
 - Git & GitHub
 - Tableau
 - Data Analytics
@@ -21,5 +23,5 @@
 
 ## Connect With Me
 
-GitHub:[ https://github.com/shruti25bce10766-droid](https://github.com/shrutikumari-cs)
+GitHub: https://github.com/shrutikumari-cs
 
